@@ -18,6 +18,5 @@ git clone https://github.com/Fibored/dalo22.git
 \mv /root/dalo22/quotalimit.conf /etc/freeradius/3.0/mods-config/sql/counter/mysql/quotalimit.conf
 \mv /root/dalo22/eap /etc/freeradius/3.0/mods-available/eap
 \mv /root/dalo22/radutmp /etc/freeradius/3.0/mods-enabled/radutmp
-```
 \mv /root/dalo22/quotalimit.conf /etc/freeradius/3.0/mods-config/sql/counter/mysql/quotalimit.conf
-
+```
